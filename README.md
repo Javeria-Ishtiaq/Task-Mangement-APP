@@ -18,9 +18,16 @@ A clean and simple Flutter task manager featuring add, complete, and delete acti
 ## Screenshots / Demo
 -Screenshots here are added from when run on the project was run on  Chrome. Can run it on Moblie devices, web etc.
 
+### SplashScreen
 ![SplashScreen](https://github.com/user-attachments/assets/2eb3030c-1450-470b-83f1-d445581cf048)
+
+### HomeScreen
 ![Home](screenshots/Homescreen.jpg)
-![SplashScreen](https://github.com/user-attachments/assets/50752ad8-b984-4606-9a4a-c4715d6dbaa3)
+
+### Task Adding Screen
+![TaskAdding](https://github.com/user-attachments/assets/6f03f634-c1ea-4b9a-b152-a9f4bd83875c)
+
+### List Screen
 ![list](https://github.com/user-attachments/assets/53a96a32-682e-4006-8753-b1dabe9ab7c8)
 
 
