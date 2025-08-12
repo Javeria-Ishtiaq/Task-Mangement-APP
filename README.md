@@ -16,8 +16,8 @@ A clean and simple Flutter task manager featuring add, complete, and delete acti
 - Shared Preferences for local persistence
 
 ## Screenshots / Demo
-- Add a short screen recording (30–60s) showing add/complete/delete and that tasks persist between app restarts.
-- You can add a file named `demo.mp4` to the repo root and link it here.
+-Screenshots here are added from when run on the project was run on  Chrome. Can run it on Moblie devices, web etc.
+
 
 ## Getting Started
 ### Prerequisites
@@ -81,7 +81,10 @@ Tasks are stored as a JSON-encoded list in `SharedPreferences` under the key `ta
 ## Troubleshooting
 - If build fails, run: `flutter clean && flutter pub get`
 - Ensure you’re on a compatible Flutter version: `flutter --version`
-- iOS codesigning errors: confirm Team selection and Bundle Identifier in Xcode
 
-## License
-You can add a license of your choice (e.g., MIT) to the repository.
+
+
+## Screenshots
+
+![Splash](screenshots/SplashScreen.jpg)
+![Home](screenshots/Homescreen.jpg)
